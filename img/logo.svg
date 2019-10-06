@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="242" height="34" viewBox="0 0 242 34">
+    <g fill="none" fill-rule="evenodd">
+        <g fill="#93EAB3">
+            <path d="M21.534 20.8H11.195V10.492zM21.534 10.308H11.195V0z"/>
+            <g>
+                <path d="M.066 20.8h10.339V10.492zM.066 10.308h10.339V0z"/>
+            </g>
+        </g>
+        <g fill="#5672E1">
+            <path d="M18.4 29.804h-1.286V19.331H18.4zM15.571 31.113h-2.057V19.331h2.057zM12.486 33.6H9.915V19.2h2.571zM8.886 31.113H6.829V19.331h2.057zM5.286 29.804H4V19.331h1.286z"/>
+        </g>
+        <text fill="#FFF" font-family="Montserrat-Bold, Montserrat" font-size="18" font-weight="bold" transform="translate(-1)">
+            <tspan x="30" y="24">Designer Launch Series</tspan>
+        </text>
+    </g>
+</svg>

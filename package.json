@@ -1,0 +1,29 @@
+{
+  "name": "designerlaunchseries",
+  "version": "1.0.0",
+  "description": "Custom landing page for Intuit & AIGA San Diego, announcing the upcoming Designer Launch Series",
+  "main": "gulp",
+  "scripts": {
+    "start": "./node_modules/.bin/gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/kovalent/sparks-gallery-wordpress-theme.git"
+  },
+  "author": "Noble Intent Studio",
+  "license": "ISC",
+  "homepage": "https://nobleintentstudio.com",
+  "browserslist": [
+    ">0%"
+  ],
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^6.1.0",
+    "gulp-cli": "^2.2.0",
+    "gulp-cssmin": "^0.2.0",
+    "gulp-minify": "^3.1.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-replace": "^1.0.0",
+    "gulp-sass": "^4.0.2"
+  }
+}
